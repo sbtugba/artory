@@ -1,0 +1,21 @@
+name: artory
+description: Sanatı keşfet, hikayesini öğren. Flutter mini katalog uygulaması.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: ArtorySans
+      fonts:
+        - asset: assets/fonts/Roboto-Regular.ttf
+    - family: ArtorySerif
+      fonts:
+        - asset: assets/fonts/LibreBaskerville.ttf
+  assets:
+    - assets/data/artworks.json
+    - assets/images/

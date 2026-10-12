@@ -1,0 +1,82 @@
+[
+  {
+    "id": "mona",
+    "title": "Mona Lisa",
+    "artist": "Leonardo da Vinci",
+    "year": 1503,
+    "period": "Rönesans",
+    "image": "assets/images/mona.jpg",
+    "story": "Leonardo da Vinci’nin 1503 dolaylarında üzerinde çalışmaya başladığı Mona Lisa, gizemli gülümsemesiyle sanat tarihinin en tanınan portrelerinden biridir. Yumuşak renk geçişleri sağlayan sfumato tekniği, yüzün hatlarını ışık ve gölge arasında eriterek canlı bir ifade oluşturur. Arka plandaki hayali manzara, figürün sakin duruşuyla birleşir. Eser bugün Paris’teki Louvre Müzesi’nde sergilenir.",
+    "price": 450
+  },
+  {
+    "id": "starry",
+    "title": "The Starry Night",
+    "artist": "Vincent van Gogh",
+    "year": 1889,
+    "period": "Post-Empresyonizm",
+    "image": "assets/images/starry.jpg",
+    "story": "Van Gogh, bu eseri 1889 yılında Fransa’nın Saint-Rémy kasabasında kaldığı dönemde yaptı. Yıldızlı gökyüzü, sanatçının güçlü fırça darbeleriyle hareket kazanır. Ön plandaki servi ağacı gökyüzünü köye bağlar; kıvrılan ışıklar ve yoğun maviler geceyi canlı bir dünyaya dönüştürür. Gözlem ile hayal gücünü birleştiren bu eser, Van Gogh’un en tanınan çalışmalarından biridir.",
+    "price": 550
+  },
+  {
+    "id": "pearl",
+    "title": "Girl with a Pearl Earring",
+    "artist": "Johannes Vermeer",
+    "year": 1665,
+    "period": "Barok",
+    "image": "assets/images/pearl.jpg",
+    "story": "Vermeer’in yaklaşık 1665 yılında yaptığı bu resim, belirli bir kişinin portresinden çok bir karakter ve ifade çalışmasıdır. Koyu arka plan, genç kızın aydınlık yüzünü ve inci küpesini öne çıkarır. Başını izleyiciye doğru çeviren figür, sanki bir anlığına durup bakıyormuş gibi görünür. Mavi ve sarı başlığı, sade kompozisyona güçlü bir renk dengesi katar.",
+    "price": 400
+  },
+  {
+    "id": "scream",
+    "title": "The Scream",
+    "artist": "Edvard Munch",
+    "year": 1893,
+    "period": "Modern",
+    "image": "assets/images/scream.jpg",
+    "story": "Edvard Munch’un 1893 tarihli Çığlık eseri, insanın kaygısını güçlü renkler ve dalgalanan çizgilerle görünür kılar. Köprü üzerindeki figür, ellerini yüzüne götürürken çevresindeki manzara da onun duygusuna katılıyor gibidir. Turuncu gökyüzü ile koyu mavi su arasındaki gerilim, resmin etkisini güçlendirir. Munch bu kompozisyonu farklı tekniklerle birden fazla kez ele almıştır.",
+    "price": 500
+  },
+  {
+    "id": "wave",
+    "title": "The Great Wave",
+    "artist": "Katsushika Hokusai",
+    "year": 1831,
+    "period": "Ukiyo-e",
+    "image": "assets/images/wave.jpg",
+    "price": 480,
+    "story": "Hokusai’nin yaklaşık 1831’de yayımlanan Büyük Dalga baskısı, Fuji Dağı’nın Otuz Altı Görünümü serisinin bir parçasıdır. Dev dalganın kıvrımı, küçük tekneler ve uzakta görünen Fuji Dağı arasında güçlü bir karşıtlık oluşturur. Ahşap baskı tekniğiyle yapılan eser, doğanın gücünü ve insanın kırılganlığını aynı kompozisyonda buluşturur."
+  },
+  {
+    "id": "kiss",
+    "title": "The Kiss",
+    "artist": "Gustav Klimt",
+    "year": 1908,
+    "period": "Modern",
+    "image": "assets/images/kiss.jpg",
+    "price": 600,
+    "story": "Gustav Klimt’in 1908–1909 yıllarında yaptığı Öpücük, altın tonları ve dekoratif desenleriyle sanatçının en tanınan eserlerinden biridir. Birbirine sarılan çiftin giysileri geometrik ve çiçeksi motiflerle birleşir. Figürlerin çevresindeki parıltılı yüzey, bu yakınlık anına zamansız bir atmosfer kazandırır."
+  },
+  {
+    "id": "venus",
+    "title": "The Birth of Venus",
+    "artist": "Sandro Botticelli",
+    "year": 1485,
+    "period": "Rönesans",
+    "image": "assets/images/venus.jpg",
+    "price": 520,
+    "story": "Botticelli’nin yaklaşık 1485 yılında yaptığı Venüs’ün Doğuşu, denizden gelen tanrıçanın kıyıya ulaşmasını anlatır. Rüzgârın taşıdığı saçlar, uçuşan kumaşlar ve zarif çizgiler resme ritim katar. Antik mitolojiyi Rönesans’ın güzellik anlayışıyla birleştiren kompozisyonda Venüs, bir deniz kabuğunun üzerinde durur."
+  },
+  {
+    "id": "lilies",
+    "title": "Water Lilies",
+    "artist": "Claude Monet",
+    "year": 1906,
+    "period": "Empresyonizm",
+    "image": "assets/images/lilies.jpg",
+    "price": 460,
+    "story": "Monet, Giverny’deki bahçesinin su yüzeyini ve nilüferlerini uzun yıllar boyunca resmetti. Bu 1906 tarihli çalışmada gökyüzünün ve bitkilerin yansımaları, suyun üzerindeki çiçeklerle iç içe geçer. Belirgin bir ufuk çizgisi yerine renk ve ışık geçişleri öne çıkar; izleyici sakin bir yüzeyin değişen atmosferine davet edilir."
+  }
+]

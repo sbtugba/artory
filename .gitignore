@@ -1,0 +1,27 @@
+.dart_tool/
+build/
+.flutter-plugins-dependencies
+*.iml
+android/local.properties
+.idea/
+
+.vscode/
+
+# Local configuration, credentials and generated files
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.mobileprovision
+*.keystore
+*.jks
+**/key.properties
+*.log
+*.hprof
+*.apk
+*.aab
+.DS_Store
+Thumbs.db
+.tools/
